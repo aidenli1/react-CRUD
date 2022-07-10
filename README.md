@@ -1,3 +1,1 @@
-# Getting Started with Create React App
-
-# react-CRUD
+# 간단한 CRUD 연습
